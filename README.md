@@ -1,2 +1,1 @@
-# bacis
-problems
+basics by using arrays
